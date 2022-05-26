@@ -1,0 +1,110 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+.red-color{
+    color: red;
+}
+.flexible-container{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 5%;
+    margin-bottom: 200px;
+}
+
+.half-width{
+    width: 50%;
+}
+.half-width2{
+    width: 60%;
+    margin-top: 4%;
+}
+
+#mission{
+    background: rgb(153, 0, 255);
+    padding: 20px;
+    margin-right: 2%;
+    border-radius: 15px;
+    width: auto;
+}
+#vission{
+    background-color: salmon;
+    padding: 20px;
+    margin-right: 2%;
+    border-radius: 15px;
+    width: auto;
+}
+#goals{ 
+    background-color: chartreuse;
+    padding: 20px;
+    border-radius: 15px;
+    width: auto;
+    margin-right: 2%;
+}
+#top-margin{
+    margin-top: 5%;
+}
+
+.left-line{
+    border-left: 3px solid gold;
+    padding-left: 10px;
+}
+.section1-img{
+    width: 62%;
+    margin-left: 15%;
+}
+.section2-img{
+    width: 50%;
+}
+.section3-img{
+    width: 75%;
+    margin-top: 20px;
+}
+.section4-img{
+    width: 65%;
+    margin-left: 150px;
+    
+}
+.font-size{
+    font-size: 30px;
+}
+.align{
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+.explore-button{
+    background-color: darkviolet;
+    text-decoration: none;
+    padding: 15px;
+    color: white;
+    border-radius: 5px;
+}
+.develop-limit{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 300px;
+    background-position-y: 65px;
+}
+.global-community{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 300px;
+    background-position-y: 185px;
+    padding-bottom: 5px;  
+}
+footer div{
+    text-align: center;
+    background-color: black;
+    color: white ;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.style{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
